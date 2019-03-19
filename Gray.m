@@ -1,4 +1,4 @@
-clc;               %a*exp(-(x-xo)^2/(2*sigmax^2)-(y-yo)^2/(2*sigmay^2))
+clc;               
 clear all;
 close all;
 format long
